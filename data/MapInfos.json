@@ -1,11 +1,11 @@
 [
 null,
-{"id":1,"expanded":true,"name":"학교","order":1,"parentId":0,"scrollX":1309,"scrollY":819,"quick":false},
+{"id":1,"expanded":true,"name":"학교","order":1,"parentId":0,"scrollX":832,"scrollY":820,"quick":false},
 {"id":2,"expanded":true,"name":"학교 복도ex","order":29,"parentId":28,"scrollX":981.5,"scrollY":609.5,"quick":false},
 {"id":3,"expanded":false,"name":"1반 교실","order":4,"parentId":29,"scrollX":654.5,"scrollY":578.5,"quick":false},
 {"id":4,"expanded":false,"name":"2반 교실","order":5,"parentId":29,"scrollX":646.5,"scrollY":645.5,"quick":false},
 {"id":5,"expanded":false,"name":"아이템 저장소","order":30,"parentId":28,"scrollX":646.5,"scrollY":537.5,"quick":false},
-{"id":6,"expanded":false,"name":"복도","order":2,"parentId":0,"scrollX":3548.727272727273,"scrollY":764.7272727272727,"quick":false},
+{"id":6,"expanded":false,"name":"복도","order":2,"parentId":0,"scrollX":1030.2,"scrollY":420.59999999999997,"quick":false},
 {"id":7,"expanded":true,"name":"2층 복도","order":26,"parentId":28,"scrollX":848,"scrollY":640,"quick":false},
 {"id":8,"expanded":false,"name":"3층 복도","order":27,"parentId":28,"scrollX":832,"scrollY":624,"quick":false},
 {"id":9,"expanded":false,"name":"4층 복도","order":28,"parentId":28,"scrollX":832,"scrollY":624,"quick":false},
