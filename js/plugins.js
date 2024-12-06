@@ -9,5 +9,5 @@ var $plugins =
 {"name":"PlayerVision","status":true,"description":"플레이어 주변에 시야/안개 효과를 추가합니다.","parameters":{"visionRadius":"0","darknessDensity":"150"}},
 {"name":"PlayerVisionRange","status":false,"description":"플레이어 주변에 시야/안개 효과를 추가합니다.","parameters":{"visionRadius":"4","darknessDensity":"255"}},
 {"name":"RemoveGoldAndHP","status":false,"description":"메뉴에서 골드 표시와 HP/MP 바를 제거합니다.","parameters":{}},
-{"name":"ExecuteOtherMapEvent","status":true,"description":"Safely execute events even after map transfers.","parameters":{}}
+{"name":"ExecuteOtherMapEvent","status":true,"description":"맵 이벤트 로딩 및 거리 제한 해제","parameters":{}}
 ];
